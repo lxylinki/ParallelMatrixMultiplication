@@ -1,3 +1,2 @@
 # ParallelMatrixMultiplication
-For practice
-Winter 2014
+A tiny practice in winter 2014
